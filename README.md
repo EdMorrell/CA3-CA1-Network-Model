@@ -1,7 +1,7 @@
 # CA3-CA1-Network-Model
 Sharp-Wave Ripple Generating Network Model of CA3-CA1
 
-![alt text](https://github.com/EdMorrell/CA3-CA1-Network-Model/blob/main/ca3_ca1.jpg "")
+![alt text](https://github.com/EdMorrell/CA3-CA1-Network-Model/blob/main/ca3_ca1.jpg "Taken from Taxidis et al.,")
 
 ## Model Schema:
 Model generates sharp-wave ripple like spike bursts via dendritic current applied to CA3 pyramidal cells. Population bursts correspond to ripple-like oscillations in synaptic currents.
