@@ -34,4 +34,4 @@ Code adapted from [Gunn et al., 2017](https://academic.oup.com/cercor/article/27
 
 ## Requirements:
 * [Brian2](https://brian2.readthedocs.io/en/stable/) 
-* [Eden-Kramer-Lab Ripple detection toolbox to run](https://github.com/Eden-Kramer-Lab/ripple_detection) *required for ripple analysis*
+* [Eden-Kramer-Lab Ripple detection toolbox](https://github.com/Eden-Kramer-Lab/ripple_detection) *required for ripple analysis*
