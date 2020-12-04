@@ -9,11 +9,11 @@ Model generates sharp-wave ripple like spike bursts via dendritic current applie
 *    CA1
         - 1000 Pinsky-Rinzel neurons
         - 100 Wang-Buzsaki interneurons recurrently connected
-*    CA3 connected to CA1 through feedforward Schaffer-collateral connection
+*    CA3 connected to CA1 through feedforward Schaffer-collateral connections
 
 
 
-Network model based on [Taxidis et al., 2011](https://onlinelibrary.wiley.com/doi/full/10.1002/hipo.20930)
+Network model based on [Taxidis et al., 2011.](https://onlinelibrary.wiley.com/doi/full/10.1002/hipo.20930)
 
 Code adapted from [Gunn et al., 2017](https://academic.oup.com/cercor/article/27/8/4182/3778268). Available [here.](https://senselab.med.yale.edu/ModelDB/showmodel.cshtml?model=225906#tabs-1)
 
